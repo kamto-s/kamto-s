@@ -1,4 +1,6 @@
 # Hi there, I'm Kamto 👋
+I am an experienced and passionate Flutter developer with expertise in developing responsive and engaging mobile apps. Have a deep understanding of widgets and the Flutter ecosystem. Able to work independently as well as in teams to produce innovative solutions.
+
 ## About me:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,8 +13,6 @@
 **kamto-s/kamto-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-
 
 # Hi there, I'm Vincent - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
 ## About me:
