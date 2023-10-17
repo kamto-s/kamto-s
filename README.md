@@ -1,9 +1,8 @@
 <center>
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="800">
 </center>
-<br>
 <center>
-
+  
 # Hi there, I'm Kamto 👋
 
 I am an experienced and passionate Flutter developer with expertise in developing responsive and engaging mobile apps. Have a deep understanding of widgets and the Flutter ecosystem. Able to work independently as well as in teams to produce innovative solutions.
