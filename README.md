@@ -2,21 +2,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="800">
 </center>
 <center>
-  
-# Hi there, I'm Kamto 👋
-
-I am an experienced and passionate Flutter developer with expertise in developing responsive and engaging mobile apps. Have a deep understanding of widgets and the Flutter ecosystem. Able to work independently as well as in teams to produce innovative solutions.
-</center>
-
-## About me:
-
-- 🚀 Welcome to my Flutter Odyssey!
-- 🔭 Currently, I wield the hat of an IT Staff, but my heart beats with the rhythm of Flutter.
-- 🌱 Every day is a new chapter in my journey of learning Dart and mastering the art of Flutter development.
-- 👯 I'm eager to dive into captivating Flutter projects that push the boundaries of mobile app experiences.
-- 🤔 I'm on the lookout for opportunities to collaborate with fellow enthusiasts in crafting seamless and stunning user interfaces.
-- 💬 Let's talk about the wonders of mobile app development and the limitless possibilities with Flutter.
-- 📫 Reach out to me at [kamto.076s@gmail.com](mailto:kamto.076s@gmail.com) and let's embark on this Flutter-filled adventure together!
 
 ## Languages and Tools:
 
