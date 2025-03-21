@@ -13,8 +13,8 @@ I am a Fullstack Developer specializing in web and mobile apps, with expertise i
 <br>
 ## 📊 GitHub Stats:
 <div style="display: flex; align-items: center;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamto-s&theme=transparent" height="180">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamto-s&layout=compact&theme=vue" height="180">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamto-s&theme=shadow_green" height="180">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamto-s&layout=compact&theme=shadow_green" height="180">
 </div>
 <br>
 <br>
