@@ -1,5 +1,7 @@
 ## Hi there, I'm Kamto! 👋
 I am a Fullstack Developer specializing in web and mobile apps, with expertise in backend, frontend, and design integration. I build scalable applications using modern technologies and thrive in both team and independent settings while exploring new tech challenges.
+<br>
+<br>
 
 ## 🛠 Languages and Tools:
 [<img align="left" alt="Flutter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />](https://flutter.dev/)
@@ -9,10 +11,13 @@ I am a Fullstack Developer specializing in web and mobile apps, with expertise i
 [<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/)
 [<img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />](https://github.com/)
 <br>
+<br>
 
 ## 📊 GitHub Stats:
 ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamto-s&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamto-s&layout=compact&theme=radical)
+<br>
+<br>
 
 ## 📫 Connect with Me:
 [<img align="left" alt="GitHub" width="87px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="padding-right:10px;" />](mailto:kamto.076s@gmail.com)
