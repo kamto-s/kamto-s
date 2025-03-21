@@ -28,18 +28,6 @@ I am a Fullstack Developer specializing in web and mobile apps, with expertise i
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="display:inline-block; margin-right:5px;">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" style="display:inline-block; margin-right:5px;">
 
-
-
-
-[<img align="left" alt="Flutter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />](https://flutter.dev/)
-[<img align="left" alt="Dart" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="padding-right:10px;" />](https://dart.dev/)
-[<img align="left" alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />](https://www.figma.com/)
-[<img align="left" alt="Photoshop" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />](https://www.adobe.com/products/photoshop.html)
-[<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/)
-[<img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />](https://github.com/)
-<br>
-<br>
-
 ## 📊 GitHub Stats:
 <div style="display: flex; align-items: center;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamto-s&theme=radical" height="180">
