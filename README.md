@@ -14,6 +14,7 @@ I am a Fullstack Developer specializing in web and mobile apps, with expertise i
 <br>
 
 ## 📊 GitHub Stats:
+![GitHub Metrics](https://metrics.lecoq.io/kamto-s?template=classic&languages=1&stars=1&followup=1&config.timezone=Asia/Jakarta)
 ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamto-s&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamto-s&layout=compact&theme=radical)
 <br>
