@@ -3,8 +3,7 @@ I am a Fullstack Developer specializing in web and mobile apps, with expertise i
 <br>
 <br>
 
-<h2>🛠 Languages and Tools:</h2>
-
+## 🛠 Languages and Tools:
 <span>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -23,9 +22,12 @@ I am a Fullstack Developer specializing in web and mobile apps, with expertise i
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </span>
 
-
-
 ## 📊 GitHub Stats:
+<span>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamto-s&theme=radical" height="180">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamto-s&layout=compact&theme=shadow_green" height="180">
+</span>
+<br>
 <div style="display: flex; align-items: center;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamto-s&theme=radical" height="180">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamto-s&layout=compact&theme=shadow_green" height="180">
