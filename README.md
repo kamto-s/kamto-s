@@ -3,11 +3,7 @@ I am a Fullstack Developer specializing in web and mobile apps, with expertise i
 <br>
 <br>
 
-## 🛠 Languages and Tools:
-## 🛠 Languages and Tools:
-
 <h2>🛠 Languages and Tools:</h2>
-
 <b>Frontend:</b>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
