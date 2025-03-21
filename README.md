@@ -4,6 +4,8 @@ I am a Fullstack Developer specializing in web and mobile apps, with expertise i
 ## 🛠 Languages and Tools:
 
 ## 📊 GitHub Stats:
+![Kurnia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamto076&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamto076&layout=compact&theme=radical)
 
 ## 📫 Connect with Me:
 
