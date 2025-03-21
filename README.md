@@ -19,6 +19,6 @@ I am a Fullstack Developer specializing in web and mobile apps, with expertise i
 <br>
 <br>
 ## 📫 Connect with Me:
-[<img align="left" alt="GitHub" width="87px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="padding-right:10px;" />](mailto:kamto.076s@gmail.com)
-[<img align="left" alt="GitHub" width="120px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="padding-right:10px;" />](https://www.instagram.com/kamto_076/)
+[<img align="left" alt="GitHub" width="87px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="padding-right:10px;" />]
+[<img align="left" alt="GitHub" width="120px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="padding-right:10px;" />]
 
