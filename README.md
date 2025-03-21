@@ -26,9 +26,11 @@ I am a Fullstack Developer specializing in web and mobile apps, with expertise i
   <a href="mailto:kamto.076s@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+    
   <a href="https://www.linkedin.com/in/kamto-s/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  
   <a href="https://kamto.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
