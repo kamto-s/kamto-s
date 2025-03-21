@@ -8,6 +8,7 @@ I am a Fullstack Developer specializing in web and mobile apps, with expertise i
 [<img align="left" alt="Photoshop" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />](https://www.adobe.com/products/photoshop.html)
 [<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/)
 [<img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />](https://github.com/)
+<br>
 
 ## 📊 GitHub Stats:
 ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamto-s&theme=radical)
