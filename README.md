@@ -1,7 +1,5 @@
 ## Hi there, I'm Kamto! 👋
 I am a Fullstack Developer specializing in web and mobile apps, with expertise in backend, frontend, and design integration. I build scalable applications using modern technologies and thrive in both team and independent settings while exploring new tech challenges.
-<br>
-<br>
 
 ## 🛠 Languages and Tools:
 <span>
