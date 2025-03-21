@@ -2,6 +2,7 @@
 I am a Fullstack Developer specializing in web and mobile apps, with expertise in backend, frontend, and design integration. I build scalable applications using modern technologies and thrive in both team and independent settings while exploring new tech challenges.
 <br>
 <br>
+
 ## 🛠 Languages and Tools:
 [<img align="left" alt="Flutter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />](https://flutter.dev/)
 [<img align="left" alt="Dart" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="padding-right:10px;" />](https://dart.dev/)
@@ -11,6 +12,7 @@ I am a Fullstack Developer specializing in web and mobile apps, with expertise i
 [<img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />](https://github.com/)
 <br>
 <br>
+
 ## 📊 GitHub Stats:
 <div style="display: flex; align-items: center;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamto-s&theme=radical" height="180">
@@ -18,20 +20,17 @@ I am a Fullstack Developer specializing in web and mobile apps, with expertise i
 </div>
 <br>
 <br>
+
 ## 📫 Connect with Me:
 <p>
   <a href="mailto:kamto.076s@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/kurniailhamch/" target="_blank">
+  <a href="https://www.linkedin.com/in/kamto-s/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://yourwebsite.com" target="_blank">
+  <a href="https://kamto.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
 </p>
-<br>
-<br>
-[<img align="left" alt="GitHub" width="87px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="120px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="padding-right:10px;" />]
 
