@@ -3,7 +3,9 @@ I am a Fullstack Developer specializing in web and mobile apps, with expertise i
 
 ## 🛠 Languages and Tools:
 
-## Connect with me:
+## 📊 GitHub Stats:
+
+## 📫 Connect with Me:
 
 
 <center>
